@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Buriev Nurmuxammad</h1>
 <h3 align="center">A passionate Frontend Developer from Uzbekistan</h3>
-KAj8KQ">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilnurik&label=Profile%20views&color=0e75b6&style=flat" alt="lilnurik" /> </p>
