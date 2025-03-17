@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Buriev Nurmuxammad</h1>
 <h3 align="center">A passionate Frontend Developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://s526vla.storage.yandex.net/rdisk/69f164e0fa6d3dfe71a9ece0277947922dd24ec3c40b996ebdaa3049dab558fc/67754109/H0mooYVvVQnnWMgiPkO0W78w1HIX0iRyahIeKnHA82CXDLMFw2wt_dNrEppgvdUc6lFYloLo2BEZ0Ryh2tav3Q==?uid=707504945&filename=%C3%90_%C3%90%C2%BE%C3%90%C2%BF%C3%90%C2%B8N%CC%83__young-programmer-concentrated-at-working-project-vector-43542712-transformed.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=707504945&fsize=5209231&hid=87ef417054d4f5e64d0145727210f67d&media_type=image&tknv=v2&etag=cb308abd10be518a4cd94716e48f8b30&ts=62aa4e79b9440&s=55b415e371c047f20c928d4f4d40c4bbc59f7a7d518ffb255ddbc2fa54eb5626&pb=U2FsdGVkX18ZAupAYqmgJ4esJEtI3MepwSXPDgGLRxKg6fUZWGKzGodwgoxoUALk9V4UPtLQVzUSCT9NYALhJXRTZlY0_tpg1V8lKKAj8KQ">
+KAj8KQ">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilnurik&label=Profile%20views&color=0e75b6&style=flat" alt="lilnurik" /> </p>
