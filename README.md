@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Buriev Nurmuxammad</h1>
+<h1 align="center">Hi, I'm Nurmuxammad</h1>
 <h3 align="center">A passionate Frontend Developer from Uzbekistan</h3>
 
 
@@ -32,8 +32,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lilnurik&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lilnurik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lilnurik&show_icons=true&locale=en&theme=tokyonight" alt="lilnurik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lilnurik&&theme=tokyonight" alt="lilnurik" /></p>
